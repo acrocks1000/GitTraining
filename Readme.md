@@ -7,7 +7,11 @@ Similar to the **comment**, the  **`pass`** statement is a null statement howeve
 
 # Syntax
 
-The syntax for the  **`pass`** statement is the use of **pass** keyword as a placeholder for the functionality to be added later. 
+The syntax for the  **`pass`** statement is the use of **pass** keyword as a placeholder for the functionality to be added later. <br>
+```{python}
+    pass
+```
+<br>
 
 ## Example
 
@@ -29,6 +33,7 @@ print(i)
 e
 ```
 <br>
+
 
 ##### While Loop With  `pass`
 
