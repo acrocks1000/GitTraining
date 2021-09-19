@@ -29,8 +29,6 @@ print(i)
 e
 ```
 <br>
----
-<br>
 
 ##### While Loop With  `pass`
 
@@ -69,12 +67,5 @@ Other examples of pass statement can be seen as:
 
 ## Flow Chart for a pass statement in a loop in Python
 
-```mermaid
-graph TB
-A([Start]) -- Enter Loop ---> B{Test Expression of Loop} -- False --> E([Exit])
-B -- True --> C{pass ?} -- True/False ---> D(Remaining body of the loop)
-D --> B
+![pass flow chart](https://user-images.githubusercontent.com/67281083/133923348-65ac09af-7620-4ef8-9680-bf376e7acff0.png)
 
-
-
-```
