@@ -67,7 +67,8 @@ Other examples of pass statement can be seen as:
 
 ## Flow Chart for a pass statement in a loop in Python
 <p align="center">
-    ![pass flow chart](https://user-images.githubusercontent.com/67281083/133923348-65ac09af-7620-4ef8-9680-bf376e7acff0.png)
+    <br>
+    <img src = "https://user-images.githubusercontent.com/67281083/133923348-65ac09af-7620-4ef8-9680-bf376e7acff0.png">
 </p>
 
 
